@@ -1,5 +1,5 @@
 import React from "react";
-import experienceImage from "..assets/experience-image.png";
+import experienceImage from "../../assets/experience-image.png";
 
 const ExperienceTopMiddle = () => {
   return (
