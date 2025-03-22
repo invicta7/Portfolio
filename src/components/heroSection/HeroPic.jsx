@@ -1,6 +1,6 @@
 import React from "react";
 import { MdOutlineCircle } from "react-icons/md";
-import heroPicImage from "../assets/images/vIriemi.jpeg";
+import heroPicImage from "../assets/vIriemi.jpeg";
 
 const HeroPic = () => {
   return (

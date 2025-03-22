@@ -1,5 +1,5 @@
 import React from "react";
-import subSkillImage from "../assets/images/SubSkills.jpg";
+import subSkillImage from "../assets/SubSkills.jpg";
 
 const SubSkills = () => {
   return (
