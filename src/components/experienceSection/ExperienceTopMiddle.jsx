@@ -7,7 +7,7 @@ const ExperienceTopMiddle = () => {
     w-[50%] sm:w-[80%]"
     >
       <img
-        src="src\assets\images\experience-image.png"
+        src="\src\assets\images\experience-image.png"
         alt="experience-image"
       />
     </div>
