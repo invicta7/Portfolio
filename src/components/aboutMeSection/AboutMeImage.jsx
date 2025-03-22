@@ -1,11 +1,12 @@
 import React from "react";
+import aboutMeImage from "../assets/vIriemi.jpeg";
 
 const AboutMeImage = () => {
   return (
     <div className="h-[500px] w-[300px] relative">
       <div className="h-[500px] w-[300px] rounded-[100px] absolute overflow-hidden">
         <img
-          src="/src/assets/images/vIriemi.jpeg"
+          src={aboutMeImage}
           alt="about-me-image"
           className="h-full w-auto object-cover"
         />
