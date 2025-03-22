@@ -19,7 +19,7 @@ const NavBarLinks = () => {
           <li key={index} className="group">
             <a
               href="#"
-              className="cursor-pointer text-white hover:text-[#88e5f0] transition-all duration-500" /*for color change on hover*/
+              className="cursor-pointer text-[#fff] hover:text-[#88e5f0] transition-all duration-500" /*for color change on hover*/
             >
               {link.link}
             </a>
